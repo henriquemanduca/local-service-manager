@@ -1,0 +1,11 @@
+projeto1:
+  dependencies: []
+  enabled: true
+  path: folder-name
+  port: 8080
+projeto2:
+  dependencies:
+  - projeto1
+  enabled: true
+  path: folder-name
+  port: 8082
