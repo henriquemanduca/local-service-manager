@@ -48,7 +48,7 @@ projeto2:
 
 ## 📝 Uso
 
-No terminal execute execute o arquivo principal conforme exemplo:
+No terminal, execute o arquivo principal conforme exemplo:
 
 ```shell
 ./ms_orchestration.py -d /home/user/projetos/ms --disable project3 --enable project2 --save
