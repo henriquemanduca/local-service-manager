@@ -2,10 +2,10 @@
 
 ## Descrição
 
-Após passar horas controlando via terminal meus microserviços separadamente, ou as vezes até com ajunda de um
+Após passar horas controlando via terminal meus microserviços separadamente, ou por vezes com ajuda de um
 script de shell que deixava o trabalho menos manual, resolvi automatizar esse processo com este pequeno projeto python.
-Agora com apenas um comando e poucos parâmetros no terminal, todos os microserviços necessários para um
-teste sobem automaticamente e na orderm e dependência necessária se for o caso.
+Agora com apenas um comando e poucos parâmetros via terminal, todos os microserviços necessários para um
+teste sobem automaticamente no cluster local seguindo a orderm de dependência configurada.
 
 ## 🚀 Principais Funcionalidades
 
@@ -33,7 +33,7 @@ git clone https://github.com/henriquemanduca/local-service-manager
 ## 🔧 Configuração
 
 Faça uma copia do arquivo sample_ms_configuration.yml (o nome do arquivo deve ser ms_configuration.yml).
-Configure todos os serviços que deseja controlar, se atentando as dependencias se for necessário.
+Configure todos os serviços que deseja controlar, se atentando a ordem de dependencias quando for necessário.
 
 ```yml
 projeto1:
