@@ -68,4 +68,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📧 Contato
 
-Henrique Mnaduca - [LinkedIn](https://www.linkedin.com/in/henrique-manduca)
+Henrique Manduca - [LinkedIn](https://www.linkedin.com/in/henrique-manduca)
